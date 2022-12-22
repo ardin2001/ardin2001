@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardin Nugraha</h1>
-<h3 align="center">I'm an Undergraduate Information Technology Student, Ryperlab Laboratory Assistant, Mediatek Staff Of HIMATIF UNEJ</h3>
+<h3 align="center">I am interested in the field of web development (Frontend)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardin2001&label=Profile%20views&color=0e75b6&style=flat" alt="ardin2001" /> </p>
 
