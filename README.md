@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="din.com/in/ardin-nugraha-b2536324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardin-nugraha" height="30" width="40" /></a>
+<a href="[din.com/in/ardin-nugraha-b2536324b](https://www.linkedin.com/in/ardin-nugraha-b2536324b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardin-nugraha" height="30" width="40" /></a>
 <a href="https://instagram.com/ardin_nugrahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardin_nugrahaa" height="30" width="40" /></a>
 </p>
 
