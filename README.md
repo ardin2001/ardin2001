@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ardin-nugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardin-nugraha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ardin-nugraha-b2536324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardin-nugraha" height="30" width="40" /></a>
 <a href="https://instagram.com/ardin_nugrahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardin_nugrahaa" height="30" width="40" /></a>
 <a href="https://discord.gg/#9774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="R06 - Ardin Nugraha#9774" height="30" width="40" /></a>
-<a href="/https://ardin.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ardin.vercel.app/" height="30" width="40" /></a>
+<a href="https://ardin.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ardin.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
