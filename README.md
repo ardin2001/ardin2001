@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardin Nugraha</h1>
 <h3 align="center">I am interested in the field of web development (Frontend)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardin2001&label=Profile%20views&color=0e75b6&style=flat" alt="ardin2001" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS**
