@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardin Nugraha</h1>
-<h3 align="center">I'm an Undergraduate Information Technology Student, Ryperlab Laboratory Assistant, Mediatek Staff Of HIMATIF UNEJ</h3>
+<h3 align="center">I'm an Undergraduate Information Technology Student</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
