@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ardinnugraha2001@gmail.com**
 
-- 📄 Know about my experiences [I'm an Undergraduate Information Technology Student, Ryperlab Laboratory Assistant, Mediatek Staff Of HIMATIF UNEJ](I'm an Undergraduate Information Technology Student, Ryperlab Laboratory Assistant, Mediatek Staff Of HIMATIF UNEJ)
+- 📄 Know about my experiences [I'm an Undergraduate Information Technology Student, Ryperlab Laboratory Assistant, Mediatek Staff Of HIMATIF UNEJ](I'm an Undergraduate Information Technology Student, Computer Science Faculty, Jember University)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
