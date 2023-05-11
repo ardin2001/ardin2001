@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **ardinnugraha2001@gmail.com**
 
-- 📄 Know about my experiences Create a project with react js & Echo Framework
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
