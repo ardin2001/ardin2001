@@ -4,16 +4,11 @@
 <h3 align="left">I'm an Undergraduate Information Technology Student, Faculty of Computer Science, Jember University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardin2001&label=Profile%20views&color=0e75b6&style=flat" alt="ardin2001" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Next JS and Ant Design**
-- 📫 How to reach me **ardinnugraha2001@gmail.com**
-- 👨🏻‍💻 Still Learning
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul>
+    <li>🌱 I’m currently learning <strong>Next JS and Ant Design</strong</li>
+    <li>📫 How to reach me <strong>ardinnugraha2001@gmail.com</strong></li>
+    <li>👨🏻‍💻 Still Learning</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
