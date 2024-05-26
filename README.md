@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardin2001&label=Profile%20views&color=0e75b6&style=flat" alt="ardin2001" /> </p>
 <ul>
-    <li>🌱 I’m currently learning <strong>Next JS and Ant Design</strong</li>
+    <li>🌱 I’m currently learning <strong>Next JS</strong</li>
     <li>📫 How to reach me <strong>ardinnugraha2001@gmail.com</strong></li>
     <li>👨🏻‍💻 Still Learning</li>
 </ul>
