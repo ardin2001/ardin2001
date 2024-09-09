@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋+I'm+Ardin+Nugraha!;" />
 </h1>
-<h3 align="left">I'm an Undergraduate Information Technology Student, Faculty of Computer Science, Jember University</h3>
+<h3 align="left">I'm an Fresh Graduate Information Technology Student, Faculty of Computer Science, Jember University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardin2001&label=Profile%20views&color=0e75b6&style=flat" alt="ardin2001" /> </p>
 <ul>
